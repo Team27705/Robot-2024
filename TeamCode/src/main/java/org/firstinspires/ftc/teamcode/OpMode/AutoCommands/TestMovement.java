@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.OpMode;
+package org.firstinspires.ftc.teamcode.OpMode.AutoCommands;
 
 import Subsystems.Drivetrain;
 
