@@ -1,4 +1,4 @@
-# FTC Dashboard
+# 2025 FTC Team 27705 Dashboard
 
 FTC Dashboard provides telemetry and monitoring tools for FTC robots during operation with the following features:
 
